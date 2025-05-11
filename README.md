@@ -1,2 +1,4 @@
 # pomodoro-cronometer
-![Preview](./assets/preview.png)
+![Preview](pomodoro-technique(1).png)
+
+
